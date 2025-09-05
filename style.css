@@ -74,9 +74,9 @@ body {
     color: #dc3545; 
 }
 
-.note-yellow { background-color: #fff9c4; }
-.note-blue { background-color: #bbdefb; }
-.note-pink { background-color: #f8bbd0; }
+.note-yellow { background-color: hsl(48, 100%, 75%); }
+.note-blue { background-color: #97d0ff; }
+.note-pink { background-color: #ff8db5; }
 
 #toggle-theme-button { 
     padding: 8px 12px; 
